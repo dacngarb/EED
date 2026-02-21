@@ -8,4 +8,4 @@
 <img src="https://github.com/user-attachments/assets/918029e6-cdbc-4dd0-9c54-4e50e4752c8f" />
 
 <h2>Diagramas de clases</h2>
-<img src="https://github.com/user-attachments/assets/70d5de77-accb-4119-896a-6371badbf17c" />
+<img src="https://github.com/user-attachments/assets/70d5de77-accb-4119-896a-6371badbf17c" style="width:104px;height:142px;/>
